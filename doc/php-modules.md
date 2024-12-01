@@ -37,6 +37,7 @@ The following PHP modules are available on the `base` flavour:
    <th>PHP 8.1</th>
    <th>PHP 8.2</th>
    <th>PHP 8.3</th>
+   <th>PHP 8.4</th>
  </tr>
  <tr>
   <td><a href="../php_modules/ctype">ctype</a></td>

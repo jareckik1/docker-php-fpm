@@ -124,6 +124,10 @@ The following table shows a more complete overview about the offered Docker imag
    <td><code>devilbox/php-fpm:8.3-base</code></td>
    <td><code>devilbox/php-fpm:8.3-base-&lt;git-tag&gt;</code></td>
   </tr>
+  <tr>
+   <td><code>devilbox/php-fpm:8.4-base</code></td>
+   <td><code>devilbox/php-fpm:8.4-base-&lt;git-tag&gt;</code></td>
+  </tr>
 
   <tr>
    <td rowspan="10"><strong>mods</strong></td>
@@ -165,6 +169,10 @@ The following table shows a more complete overview about the offered Docker imag
   <tr>
    <td><code>devilbox/php-fpm:8.3-mods</code></td>
    <td><code>devilbox/php-fpm:8.3-mods-&lt;git-tag&gt;</code></td>
+  </tr>
+  <tr>
+   <td><code>devilbox/php-fpm:8.4-mods</code></td>
+   <td><code>devilbox/php-fpm:8.4-mods-&lt;git-tag&gt;</code></td>
   </tr>
 
   <tr>
@@ -208,6 +216,10 @@ The following table shows a more complete overview about the offered Docker imag
    <td><code>devilbox/php-fpm:8.3-prod</code></td>
    <td><code>devilbox/php-fpm:8.3-prod-&lt;git-tag&gt;</code></td>
   </tr>
+  <tr>
+   <td><code>devilbox/php-fpm:8.4-prod</code></td>
+   <td><code>devilbox/php-fpm:8.4-prod-&lt;git-tag&gt;</code></td>
+  </tr>
 
   <tr>
    <td rowspan="10"><strong>slim</strong></td>
@@ -250,6 +262,10 @@ The following table shows a more complete overview about the offered Docker imag
    <td><code>devilbox/php-fpm:8.3-slim</code></td>
    <td><code>devilbox/php-fpm:8.3-slim-&lt;git-tag&gt;</code></td>
   </tr>
+  <tr>
+   <td><code>devilbox/php-fpm:8.4-slim</code></td>
+   <td><code>devilbox/php-fpm:8.4-slim-&lt;git-tag&gt;</code></td>
+  </tr>
 
   <tr>
    <td rowspan="10"><strong>work</strong></td>
@@ -291,6 +307,10 @@ The following table shows a more complete overview about the offered Docker imag
   <tr>
    <td><code>devilbox/php-fpm:8.3-work</code></td>
    <td><code>devilbox/php-fpm:8.3-work-&lt;git-tag&gt;</code></td>
+  </tr>
+  <tr>
+   <td><code>devilbox/php-fpm:8.4-work</code></td>
+   <td><code>devilbox/php-fpm:8.4-work-&lt;git-tag&gt;</code></td>
   </tr>
 
  </tbody>

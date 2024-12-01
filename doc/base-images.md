@@ -23,3 +23,4 @@ Have a look at the following Devilbox base images for which no official versions
 * [PHP-FPM 8.1](https://github.com/devilbox/docker-php-fpm-8.1)
 * [PHP-FPM 8.2](https://github.com/devilbox/docker-php-fpm-8.2)
 * [PHP-FPM 8.3](https://github.com/devilbox/docker-php-fpm-8.3)
+* [PHP-FPM 8.4](https://github.com/devilbox/docker-php-fpm-8.4)

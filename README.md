@@ -4,7 +4,7 @@
 [![Build](https://img.shields.io/github/actions/workflow/status/john-ea/docker-php-fpm/action.yml?style=for-the-badge&logo=github&label=Build)](https://github.com/john-ea/docker-php-fpm/actions/workflows/action.yml)
 [![Docker pulls](https://img.shields.io/docker/pulls/johnea/php-fpm.svg?style=for-the-badge&logo=docker)](https://hub.docker.com/r/johnea/php-fpm/tags)
 
-![PHP](https://img.shields.io/badge/PHP-5.6--8.3-blue?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/PHP-5.6--8.4-blue?style=for-the-badge&logo=php)
 
 ___
 
